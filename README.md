@@ -6,7 +6,7 @@ This repository serves as the digital archive for the data and analysis code ass
 ## Data & Code Availability
 This repository is currently being prepared for public release. 
 
-All raw data files and custom analysis scripts will be fully uploaded and made publicly available in this repository immediately upon Acceptance publication of the manuscript.
+All raw data files and custom analysis scripts will be fully uploaded and made publicly available in this repository immediately upon acceptance publication of the manuscript.
 
 ## Repository Structure (Planned)
 Upon release, this repository will be organized as follows:
