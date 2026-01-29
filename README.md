@@ -13,6 +13,7 @@ Upon release, this repository will be organized as follows:
 * `code/`: Custom R and Python scripts for behavioral tracking and statistical analysis.
 * `data/`: Raw datasets for field observations and laboratory experiments (CSV format).
 * `figures/`: Code to reproduce the main figures of the manuscript.
+* `Protocols/`: Immunohistocimestry Protocols
 
 ## Contact
 For inquiries regarding this dataset prior to publication, please contact the author at: shachaf.ben-ezra@mail.huji.ac.il
